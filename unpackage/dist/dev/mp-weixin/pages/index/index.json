@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "我是首页",
+  "usingComponents": {
+    "test": "/compents/test"
+  }
+}
